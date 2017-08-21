@@ -14,7 +14,9 @@ long long power(long long a,long long b)
 	return temp;
 }
 int main()
-{	long long n,ans=1;
+{	
+// Codevita Round 1
+long long n,ans=1;
 cin>>n;
 if(n==1){
 cout<<0;
